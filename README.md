@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/bbq.png" alt="Software Engineering BBQ logo" width="250px"/>
+  <img width="150px" src="img/fire.png" alt="Software Engineering BBQ logo" width="250px"/>
 </p>
 <h1 align="center">Software Engineering BBQ</h1>
 <p align="center">Thursday July 25th at noon</p>
@@ -24,7 +24,9 @@ Please make this project a success by bringing a side dish or dessert.  Remember
 
 ## Changelog
 
- * **1.0.0**
+ * **1.0.1**
+   * New logo
+ * 1.0.0
    * Initial commit
  
 
