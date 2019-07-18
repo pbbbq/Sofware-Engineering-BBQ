@@ -9,7 +9,8 @@
 The Software Engineering BBQ is a week away (7/25 at noon).  Make sure you have it on your calendar.
 
 ## Menu
-**Meat**: Tri-tip and Chicken
+**Meat**: Tri-tip and Chicken. Hot dogs too!
+
 
 **Vegetarian**: Veggie Patties and Buns
 
